@@ -1,0 +1,6 @@
+__pycache__/
+.vscode
+data/*
+**/.DS_Store
+.order_restart
+
