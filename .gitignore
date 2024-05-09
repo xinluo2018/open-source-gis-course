@@ -1,0 +1,9 @@
+__pycache__/
+.vscode
+data/*
+data-del/*
+**/.DS_Store
+.order_restart
+教案
+课程选修及作业/2023秋季课程
+!课程选修及作业/2023秋季课程/homework-2/任昶旭
