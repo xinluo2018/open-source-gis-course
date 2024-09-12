@@ -5,5 +5,3 @@ def num_higher_m(ss, s=90):
       num=num+1
   return num
 
-
-
