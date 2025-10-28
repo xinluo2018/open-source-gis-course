@@ -4,6 +4,6 @@ data/*
 data-del/*
 **/.DS_Store
 .order_restart
-students/2025秋季课程
+course/homework
 **/*.docx
 **/*.pdf
