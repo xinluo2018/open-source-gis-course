@@ -7,3 +7,4 @@ data-del/*
 course/homework
 **/*.docx
 **/*.pdf
+course/students_info/*.gpkg 
